@@ -1,0 +1,6 @@
+{
+  "name": "Usos y construcciones con BIEN — Իսպաներենի ուղեցույց",
+  "description": "Իսպաներեն bien բառի կիրառությունները և կառույցները հայերեն բացատրությամբ և ինտերակտիվ թարգմանությամբ (Nivel B1–C1)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
